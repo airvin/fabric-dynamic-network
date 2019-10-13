@@ -1,0 +1,7 @@
+crypto-config
+config/*
+
+*.tx
+*.block
+*.pb
+*.json
