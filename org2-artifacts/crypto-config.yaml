@@ -5,9 +5,9 @@
 #
 
 PeerOrgs:
-  - Name: Org2 
+  - Name: Org2
     Domain: org2.example.com
-    EnableNodeOUs: true
+    # EnableNodeOUs: true
     Template:
       Count: 1
     Users:
